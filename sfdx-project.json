@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "MyPackageName",
+      "versionDescription": "Empty unlocked package"
+    }
+  ],
+  "name": "MyFirstProject",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "MyPackageName": "0HodL0000001HejSAE",
+    "MyPackageName@0.1.0-1": "04tdL000000BuIDQA0"
+  }
+}
