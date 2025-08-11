@@ -5,7 +5,7 @@
       "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
       "default": true,
-      "package": "MyPackageName",
+      "package": "myCustomPack1",
       "versionDescription": "Empty unlocked package"
     }
   ],
@@ -15,6 +15,10 @@
   "sourceApiVersion": "62.0",
   "packageAliases": {
     "MyPackageName": "0HodL0000001HejSAE",
-    "MyPackageName@0.1.0-1": "04tdL000000BuIDQA0"
+    "MyPackageName@0.1.0-1": "04tdL000000BuIDQA0",
+    "MyPackageName@0.1.0-11": "04tdL000000Bvz3QAC",
+    "myCustomPack1": "0HodL0000001HejSAE",
+    "myCustomPack1@0.1.0-1": "04tdL000000BuIDQA0",
+    "myCustomPack1@0.1.0-11": "04tdL000000Bvz3QAC"
   }
 }
